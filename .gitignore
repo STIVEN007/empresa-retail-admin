@@ -1,0 +1,23 @@
+# Respaldos y volcados
+*.bak
+*.dump
+*.backup
+*.sql.gz
+*.sql.zip
+
+# Bases locales y logs
+*.sqlite
+*.sqlite3
+*.db
+*.log
+
+# Credenciales y configuración local
+.env
+*.cnf
+*.pem
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
